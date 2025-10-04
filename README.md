@@ -64,7 +64,9 @@ plt.show()
 
 
 ## Output:
-![decision tree classifier model](sam.png)
+<img src="ex8 output 1.png" alt="Output" width="500">
+
+<img src="ex8 output 2.png" alt="Output" width="500">
 
 
 ## Result:
